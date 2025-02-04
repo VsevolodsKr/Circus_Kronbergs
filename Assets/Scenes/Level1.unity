@@ -158,8 +158,8 @@ MonoBehaviour:
   - {fileID: 9029480461014447628, guid: 4dc0fbf8920ea9943bb84926bd2cf2ba, type: 3}
   - {fileID: 1806999186689911362, guid: 897d2e71d5a461f4a8c14648c1a0c733, type: 3}
   - {fileID: 4135730349781899550, guid: 34f04549efc145f4f88811f79145e843, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 6095566806826583919, guid: f16a14be5d849184c95afe5e50479f3e, type: 3}
+  - {fileID: 3429644860877096824, guid: 55119e26eaf521f45a57dc35cc884ff9, type: 3}
   spawnPoint: {fileID: 1743841097}
 --- !u!4 &212739433
 Transform:
